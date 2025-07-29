@@ -5,6 +5,7 @@ example.js
 .git
 .gitignore
 .gitattributes
+.github/
 
 # IDE files
 .vscode/
